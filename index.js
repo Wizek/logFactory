@@ -1,1 +1,1 @@
-"require logFactory.js"
+"require ./logFactory.js"
